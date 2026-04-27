@@ -2,6 +2,10 @@
 
 Digital Trust & Integrity Platform for the **Hack2Skill Google Solution Developer Challenge**
 
+## Live Demo
+
+🚀 **Try it now**: https://trust-guard-ai-kappa.vercel.app/login
+
 ## Features
 
 - 🔐 **E2EE Encryption** - AES-256 end-to-end encryption for all assets
